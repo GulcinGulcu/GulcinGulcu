@@ -4,7 +4,7 @@ I'm a frontend developer. I specialize in building responsive and dynamic user i
 
 ## 🌱 Currently
 - Building side projects to grow my portfolio and deepen my frontend skills
-- Expanding my skillset by learning backend development and deepen my understanding of server-side programming.
+- Expanding my skillset by learning backend development and deepening my understanding of server-side programming.
 
 ## 🧰 Tech Stack
 
