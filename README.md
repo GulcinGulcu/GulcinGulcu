@@ -1,6 +1,6 @@
 ## Hi there, I am Gulcin 👋
 
-I'm a full-stack developer with a strong focus on frontend. I create responsive, dynamic user interfaces with modern JavaScript frameworks, backed by scalable Node.js solutions
+I'm a full-stack developer with a strong focus on frontend. I create responsive, dynamic user interfaces with modern JavaScript frameworks, backed by scalable Node.js solutions.
 
 ## 🌱 Currently
 - Building side projects to grow my portfolio and deepen my frontend skills.
